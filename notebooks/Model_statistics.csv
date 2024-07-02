@@ -1,0 +1,13 @@
+,MAE,R2
+Linear Regression,0.1305,0.9681
+Linear Regression Isolation Forest,0.1401,0.967
+Linear Regression PCA,0.3825,0.995
+Linear Regression Isolation Forest and PCA,0.2779,0.9973
+XGBoost Regression,0.1123,0.9765
+XGBoost Regression Isolation Forest,0.1328,0.9687
+XGBoost Regression PCA,2.3494,0.6955
+XGBoost Regression Isolation Forest PCA,1.6363,0.9112
+Ridge Regression,0.1305,0.9681
+Ridge Regression Isolation Forest,0.1437,0.9659
+Ridge Regression PCA,0.382,0.995
+Ridge Regression Isolation Forest PCA,0.4348,0.9903
