@@ -68,4 +68,6 @@ Observability is key. Save every request and response made to the APIs to a **pr
 ---
 
 ## How to run
-Please fill this section as part of the assignment.
+For this assignment I focused on the first two challenges. So, develop an automated pipeline with also hyperparameter optimization step. I worked on two notebooks: EDA and Pipeline.
+
+In the first one I provided my personal exploratory data analysis, taking additional insights on the diamonds dataset. In the Pipeline, I used those insights to develop a pipeline to clean the data and incorporate 3 models, namely Linear Regression, XGBoost and Ridge Regression, which will be optimized using optuna library. Finally, I saved all the statistics on a suitable .csv file called Model_sctatistics.csv . The code can be runned cell by cell, I already did it, in order to double check you are free to re-run the whole notebook. Note that the statistics may differ a little bit due to the random seed.
